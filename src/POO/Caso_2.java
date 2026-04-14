@@ -1,5 +1,7 @@
 package POO;
 
+//caso 2: Persona
+
 public class Persona {
 	
 	 private String nombre, apellido;
