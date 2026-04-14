@@ -1,5 +1,7 @@
 package POO;
 
+// Clase principal para ejecutar los casos
+
 public class Main {
 	
 	 public static void main(String[] args) {

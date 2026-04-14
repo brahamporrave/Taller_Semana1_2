@@ -1,5 +1,7 @@
 package contador;
 
+//caso 4: Contador de objetos
+
 public class Contador {
     private static int contador = 0;
     

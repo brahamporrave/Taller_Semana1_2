@@ -2,6 +2,8 @@ package POO;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+// Caso 5: Lista de estudiantes
+
 public class Caso5ListaEstudiantes {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
