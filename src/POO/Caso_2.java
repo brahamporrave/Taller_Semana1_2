@@ -2,12 +2,12 @@ package POO;
 
 //caso 2: Persona
 
-public class Persona {
+public class Caso_2 {
 	
 	 private String nombre, apellido;
 	 private int dni,edad;
 	 
-	 public Persona(String nombre,String apellido,int dni, int edad) {
+	 public Caso_2(String nombre,String apellido,int dni, int edad) {
 	        this.nombre = nombre;
 	        this.edad = edad;
 	        this.apellido = apellido;

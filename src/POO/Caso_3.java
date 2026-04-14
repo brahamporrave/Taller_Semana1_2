@@ -1,8 +1,8 @@
-package poo;
+package POO;
 
 // Caso 3: Sobrecarga de métodos
 
-public class Operacion {
+public class Caso_3 {
 	
     public int sumar(int a, int b) {
         return a + b;

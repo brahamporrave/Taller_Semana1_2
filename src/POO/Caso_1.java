@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // Caso 1: Calculadora
 
-public class Caso1 {
+public class Caso_1 {
     public static  void main(String[] args)
     {
         // Calculadora

@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // Caso 5: Lista de estudiantes
 
-public class Caso5ListaEstudiantes {
+public class Caso_5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         ArrayList<String> estudiantes = new ArrayList<>();

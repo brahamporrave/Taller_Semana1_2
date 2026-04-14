@@ -1,14 +1,14 @@
-package contador;
+package POO;
 
 //caso 4: Contador de objetos
 
-public class Contador {
+public class Caso_4 {
     private static int contador = 0;
     
     private int id;
     
     // Constructor
-    public Contador() {
+    public Caso_4() {
         contador++;  // Incrementa el contador cada vez que se crea un objeto
         this.id = contador;  // Asigna un ID único basado en el contador
         System.out.println("✓ Objeto Contador #" + id + " creado. Total objetos: " + contador);
