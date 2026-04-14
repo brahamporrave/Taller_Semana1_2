@@ -45,6 +45,7 @@ public class Caso1 {
                 System.out.println("ingrese una opcion valida");
                 break;
         }
+
         numeros.close();
     }
 }
